@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "multi-genie-langchain-agent"
+version = "0.1.0"
+description = "Supervisor agent using LangChain to orchestrate Sales Analytics + Customer Insights Genie spaces"
+requires-python = ">=3.9"
+dependencies = [
+    "langchain",
+    "langchain-community",
+    "langchain-databricks",
+    "mlflow>=3.0",
+    "databricks-sdk",
+    "pydantic>=2",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/agent"]
