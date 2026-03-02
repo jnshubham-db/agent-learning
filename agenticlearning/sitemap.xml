@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/ai-ml-tutorials</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/foundation-model-overview</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/databricks-runtime-ml</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/distributed-training/</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/dl-best-practices</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/pytorch</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/tensorflow</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/reference-solutions/</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/manage-model-lifecycle/</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/ray/</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/mlops/mlops-workflow</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/scikit-learn</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/mllib</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/model-serving-intro</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/acceptable-use-models</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/retired-models-policy</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/supported-models</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/deploy-prov-throughput-foundation-model-apis</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/create-foundation-model-endpoints</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/score-foundation-models</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/regression</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/classification</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/forecasting</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/regression-train-api</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/automl-api-reference</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/serverless-forecasting</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/feature-store-integration</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/databricks-runtime-ml-maintenance</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/serve-data-ai</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/workspace-feature-store/</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/concepts</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/uc/feature-tables-uc</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/declarative-apis</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/materialized-features</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/uc/ui-uc</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/train-models-with-feature-store</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/time-series</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/python-api</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/online-feature-store</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/automatic-feature-lookup</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/feature-function-serving</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/on-demand-features</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/lineage</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/feature-serving-tutorial</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/rag</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/deep-learning</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/distributed-training/spark-pytorch-distributor</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/distributed-training/deepspeed</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/distributed-training/distributed-ml-for-spark-connect</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/load-data/streaming</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl-hyperparam-tuning/</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/reference-solutions/images-etl-inference</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/tensorboard</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/preprocess-data/transfer-learning-tensorflow</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/manage-model-lifecycle/workspace-model-registry</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/custom-models</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-inference/</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-recommender-models</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/reference-solutions/natural-language-processing</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/production-optimization</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/model-serving-limits</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/migrate-model-serving</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/api-reference</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/manage-model-lifecycle/migrate-to-uc</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/create-manage-serving-endpoints</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/manage-model-lifecycle/upgrade-workflows</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/integrations</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/mlops/llmops</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/mlops/deployment-patterns</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/score-custom-model-endpoints</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/deploy-custom-python-code</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/open-ai-mitigation-requirements</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/model-units</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/serve-multiple-models-to-serving-endpoint</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/query-chat-models</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/query-embedding-models</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/query-vision-models</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/query-reason-models</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/function-calling</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/structured-outputs</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/training-examples</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/regression-data-prep</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/classification-data-prep</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/classification-train-api</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/forecasting-train-api</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/forecasting-data-prep</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl/automl-covariate-forecast</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/huggingface/load-data</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/huggingface/</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/workspace-feature-store/feature-tables</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/third-party-online-stores</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/online-workflows</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/store-env-variable-model-serving</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/fs-authentication</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/inference-tables</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/route-optimization</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/manage-serving-endpoints</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/monitor-diagnose-endpoints</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/load-data/ddl-data</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl-hyperparam-tuning/optuna</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/ray/ray-mlflow</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl-hyperparam-tuning/hyperopt-distributed-ml</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/manage-model-lifecycle/multiple-workspaces</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/private-libraries-model-serving</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/model-serving-pre-deployment-validation</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/what-is-load-test</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/serverless-optimized-deployments</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/model-serving-debug</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/model-serving-custom-artifacts</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/add-model-serving-instance-profile</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-inference/dl-model-inference</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-inference/resnet-model-inference-tensorrt</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-inference/resnet-model-inference-pytorch</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/query-route-optimization</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/metrics-export-serving-endpoint</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/limits</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/compliance</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/manage-model-lifecycle/migrate-models</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/model-serving/enable-model-serving-inference-tables</loc>
+  <lastmod>2026-02-26T22:49:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/legacy-prov-throughput</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/xgboost</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl-hyperparam-tuning/hyperopt-spark-mlflow-integration</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl-hyperparam-tuning/hyperopt-model-selection</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/automl-hyperparam-tuning/hyperopt-best-practices</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/huggingface/fine-tune-model</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/workspace-feature-store/ui</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/workspace-feature-store/access-control</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/publish-features</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/feature-store/migrate-from-online-tables</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/load-data/tfrecords-save-load</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/foundation-model-apis/prov-throughput-run-benchmark</loc>
+  <lastmod>2026-02-26T22:49:35+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/xgboost-spark</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/sparkdl-xgboost</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.databricks.com/aws/en/machine-learning/train-model/xgboost-scala</loc>
+  <lastmod>2026-02-26T22:49:37+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "genie_dspy_agent"
+version = "0.1.0"
+description = "Simple Genie Agent with DSPy — packaged as a wheel"
+requires-python = ">=3.9"
+dependencies = [
+    "dspy",
+    "mlflow>=3",
+    "databricks-agents",
+    "pyspark",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/agent"]

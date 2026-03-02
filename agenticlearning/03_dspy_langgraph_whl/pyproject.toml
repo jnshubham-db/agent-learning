@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "order_support_dspy"
+version = "0.1.0"
+description = "Customer Order Support Agent with DSPy and LangGraph"
+requires-python = ">=3.9"
+dependencies = [
+    "dspy",
+    "langgraph",
+    "langchain-core",
+    "mlflow>=3",
+    "databricks-agents",
+    "pyspark",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/agent"]

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "order_support_langchain"
+version = "0.1.0"
+description = "Customer Support Agent with LangChain + LangGraph (classify-lookup-respond)"
+requires-python = ">=3.9"
+dependencies = [
+    "langchain",
+    "langchain-core",
+    "langchain-databricks",
+    "langgraph",
+    "mlflow>=3",
+    "databricks-agents",
+    "pyspark",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/agent"]
